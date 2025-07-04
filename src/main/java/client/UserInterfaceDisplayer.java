@@ -9,6 +9,6 @@ public class UserInterfaceDisplayer {
     }
 
     public static void printHeader(String header) {
-        System.out.printf("\t%s", header);
+        System.out.printf("\t%s\n", header);
     }
 }
